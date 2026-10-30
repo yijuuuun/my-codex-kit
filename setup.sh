@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # 사용법: 작업 공간 루트에서
-#   git clone https://github.com/<계정>/my-codex-kit.git .kit && bash .kit/setup.sh
+#   git clone https://github.com/yijuuuun/my-codex-kit.git .kit && bash .kit/setup.sh
 set -euo pipefail
 
 KIT="$(cd "$(dirname "$0")" && pwd)"

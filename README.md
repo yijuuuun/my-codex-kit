@@ -4,7 +4,7 @@ Codex CLI용 개인 작업 규칙, Skill, 문서 템플릿 모음. 과제 정답
 
 ## 설치
 ```bash
-git clone https://github.com/<계정>/my-codex-kit.git .kit && bash .kit/setup.sh
+git clone https://github.com/yijuuuun/my-codex-kit.git .kit && bash .kit/setup.sh
 ```
 
 - `AGENTS.md`: 작업 규칙 (계획 → 구현 → 기록 → 검증)
